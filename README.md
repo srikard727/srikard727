@@ -8,7 +8,7 @@ I love learning new things about technology as it advances.
 
 ## ⏱️ WakaTime Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=srikard727&layout=compact&theme=tokyonight)
 
 
 <!--
