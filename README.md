@@ -6,10 +6,6 @@ I love learning new things about technology as it advances.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikard727&layout=compact&theme=tokyonight)
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srikard727&theme=tokyo-night)
-
 <!--
 **srikard727/srikard727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
