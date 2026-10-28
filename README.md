@@ -1,4 +1,4 @@
-## Please hire me 😂
+I love learning new things about technology as it advances.
 
 <!--
 **srikard727/srikard727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
